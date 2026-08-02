@@ -8,16 +8,12 @@
     "官方"
   ],
   "source": "https://github.com/BDFFZI/Alife",
-  "dependencies": {
-    "Alife.Function.Auditory": "",
-    "Alife.Function.AIModelUtility": ""
-  },
-  "environments": {
-    "nuget": {
-      "org.k2fsa.sherpa.onnx": ""
-    }
-  },
   "releases": {
+    "4.0.0": {
+      "note": "插件框架大改，新增PluginManifest支持",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Auditory.SenseVoice/4.0.0.zip",
+      "date": "2026-7-20"
+    },
     "1.0.0": {
       "date": "2026-6-14",
       "note": "初始版本",
