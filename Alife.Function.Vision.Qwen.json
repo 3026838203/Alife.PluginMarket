@@ -8,6 +8,24 @@
     "官方"
   ],
   "source": "https://github.com/BDFFZI/Alife",
+  "dependencies": {
+    "Alife.Function.Vision": "",
+    "Alife.Function.AIModelUtility": ""
+  },
+  "environments": {
+    "pip": {
+      "torch": "",
+      "torchvision": "",
+      "transformers": "",
+      "bitsandbytes": "",
+      "accelerate": "",
+      "sentencepiece": "",
+      "tiktoken": "",
+      "Pillow": "",
+      "qwen-vl-utils": "",
+      "torchcodec": ""
+    }
+  },
   "releases": {
     "1.0.0": {
       "date": "2026-6-14",

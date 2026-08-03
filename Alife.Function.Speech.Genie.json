@@ -8,6 +8,15 @@
     "官方"
   ],
   "source": "https://github.com/BDFFZI/Alife",
+  "dependencies": {
+    "Alife.Function.Speech": ""
+  },
+  "environments": {
+    "pip": {
+      "genie-tts": "",
+      "huggingface_hub": ""
+    }
+  },
   "releases": {
     "1.0.0": {
       "date": "2026-6-14",

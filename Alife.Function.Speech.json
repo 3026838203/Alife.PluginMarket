@@ -8,6 +8,14 @@
     "官方"
   ],
   "source": "https://github.com/BDFFZI/Alife",
+  "dependencies": {
+    "Alife.Function.FunctionCaller": ""
+  },
+  "environments": {
+    "nuget": {
+      "NAudio": ">=2.3.0"
+    }
+  },
   "releases": {
     "1.0.0": {
       "date": "2026-6-14",

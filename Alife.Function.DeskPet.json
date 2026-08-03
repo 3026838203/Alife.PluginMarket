@@ -7,6 +7,9 @@
     "官方"
   ],
   "source": "https://github.com/BDFFZI/Alife",
+  "dependencies": {
+    "Alife.Function.FunctionCaller": ""
+  },
   "releases": {
     "1.0.1": {
       "date": "2026-6-17",

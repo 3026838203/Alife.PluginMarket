@@ -7,6 +7,20 @@
     "官方"
   ],
   "source": "https://github.com/BDFFZI/Alife",
+  "dependencies": {
+    "Alife.Function.FunctionCaller": "",
+    "Alife.Function.AIModelUtility": ""
+  },
+  "environments": {
+    "nuget": {
+      "DuckDB.NET.Data.Full": ">=1.5.3"
+    },
+    "pip": {
+      "transformers": "",
+      "torch": "",
+      "sentencepiece": ""
+    }
+  },
   "releases": {
     "1.4.0": {
       "date": "2026-7-16",

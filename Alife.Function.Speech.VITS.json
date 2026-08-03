@@ -8,6 +8,29 @@
     "官方"
   ],
   "source": "https://github.com/BDFFZI/Alife",
+  "dependencies": {
+    "Alife.Function.Speech": ""
+  },
+  "environments": {
+    "pip": {
+      "numba": "",
+      "Cython": "",
+      "librosa": "",
+      "matplotlib": "",
+      "numpy": "",
+      "phonemizer": "",
+      "scipy": "",
+      "tensorboard": "",
+      "torch": "",
+      "torchvision": "",
+      "Unidecode": "",
+      "ffmpeg": "",
+      "cn2an": "",
+      "gradio": "",
+      "pypinyin": "",
+      "jieba": ""
+    }
+  },
   "releases": {
     "1.0.0": {
       "date": "2026-6-14",

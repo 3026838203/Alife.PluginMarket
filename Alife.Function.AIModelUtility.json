@@ -7,6 +7,11 @@
     "官方"
   ],
   "source": "https://github.com/BDFFZI/Alife",
+  "environments": {
+    "pip": {
+      "modelscope": "<=1.37.1"
+    }
+  },
   "releases": {
     "1.1.1": {
       "date": "2026-6-21",

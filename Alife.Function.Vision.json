@@ -8,6 +8,15 @@
     "官方"
   ],
   "source": "https://github.com/BDFFZI/Alife",
+  "dependencies": {
+    "Alife.Function.FunctionCaller": ""
+  },
+  "environments": {
+    "nuget": {
+      "System.Drawing.Common": ">=9.0.0",
+      "Vortice.Direct3D11": ">=3.8.1"
+    }
+  },
   "releases": {
     "1.1.0": {
       "date": "2026-6-26",
