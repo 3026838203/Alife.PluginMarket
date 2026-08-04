@@ -21,7 +21,7 @@
     "4.0.0": {
       "date": "2026-8-4",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Vision/4.0.0.zip",
-      "note": "插件框架重大更新：支持本地PluginMarket和manifest.json元数据"
+      "note": "fix:修复AI不知道直接lookWindows，而是先截图再识图的问题"
     },
     "1.1.0": {
       "date": "2026-6-26",

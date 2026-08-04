@@ -16,7 +16,7 @@
     "4.0.0": {
       "date": "2026-8-4",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.AIModelUtility/4.0.0.zip",
-      "note": "插件框架重大更新：支持本地PluginMarket和manifest.json元数据"
+      "note": "python通讯工具，误将正常日志视为警告，而且看不到一般日志"
     },
     "1.1.1": {
       "date": "2026-6-21",

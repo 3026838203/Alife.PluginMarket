@@ -25,7 +25,7 @@
     "4.0.0": {
       "date": "2026-8-4",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Memory/4.0.0.zip",
-      "note": "插件框架重大更新：支持本地PluginMarket和manifest.json元数据"
+      "note": "feat:精简默认压缩提示词"
     },
     "1.4.0": {
       "date": "2026-7-16",
