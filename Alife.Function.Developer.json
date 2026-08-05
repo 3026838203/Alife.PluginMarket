@@ -3,14 +3,16 @@
   "name": "开发者模式",
   "author": "Alife官方",
   "description": "向AI暴露项目/系统信息，提供创建插件和运行时管理活动的工具。",
-  "tags": ["官方"],
+  "tags": [
+    "官方"
+  ],
   "source": "https://github.com/BDFFZI/Alife",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
   },
   "releases": {
     "4.0.1": {
-      "date": "2026-8-4",
+      "date": "2026-8-5",
       "note": "将热重载的提示词注入方法作为默认推荐写法",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/4.0.1.zip"
     },
