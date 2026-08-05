@@ -11,6 +11,11 @@
     "Alife.Function.FunctionCaller": ""
   },
   "releases": {
+    "1.1.2": {
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.1.2.zip",
+      "date": "2026-8-4",
+      "note": "将热重载的提示词注入方法作为默认推荐写法"
+    },
     "4.0.0": {
       "date": "2026-8-4",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/4.0.0.zip",
