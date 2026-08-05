@@ -11,30 +11,64 @@
     "Alife.Function.FunctionCaller": ""
   },
   "releases": {
-    "1.1.2": {
-      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.1.2.zip",
+    "4.0.1": {
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/4.0.1.zip",
       "date": "2026-8-4",
       "note": "将热重载的提示词注入方法作为默认推荐写法"
     },
-    "4.0.0": {
-      "date": "2026-8-4",
-      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/4.0.0.zip",
-      "note": "插件框架全面重构：从编译加载、代码结构、运行策略全部改变"
+    "Count": 4,
+    "IsReadOnly": false,
+    "Keys": [
+      "4.0.0",
+      "1.1.1",
+      "1.1.0",
+      "1.0.0"
+    ],
+    "Values": [
+      {
+        "date": "2026-8-4",
+        "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/4.0.0.zip",
+        "note": "插件框架全面重构：从编译加载、代码结构、运行策略全部改变"
+      },
+      {
+        "date": "2026-7-1",
+        "note": "将提示词改为隐式注入",
+        "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.1.1.zip"
+      },
+      {
+        "date": "2026-6-26",
+        "note": "1. 写清启用模块的方式是用带命名空间的类名\n2. 完善插件开发指南并改为初始注入",
+        "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.1.0.zip"
+      },
+      {
+        "date": "2026-6-11",
+        "note": "初始版本",
+        "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.0.0.zip"
+      }
+    ],
+    "IsFixedSize": false,
+    "SyncRoot": {
+      "4.0.0": {
+        "date": "2026-8-4",
+        "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/4.0.0.zip",
+        "note": "插件框架全面重构：从编译加载、代码结构、运行策略全部改变"
+      },
+      "1.1.1": {
+        "date": "2026-7-1",
+        "note": "将提示词改为隐式注入",
+        "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.1.1.zip"
+      },
+      "1.1.0": {
+        "date": "2026-6-26",
+        "note": "1. 写清启用模块的方式是用带命名空间的类名\n2. 完善插件开发指南并改为初始注入",
+        "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.1.0.zip"
+      },
+      "1.0.0": {
+        "date": "2026-6-11",
+        "note": "初始版本",
+        "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.0.0.zip"
+      }
     },
-    "1.1.1": {
-      "date": "2026-7-1",
-      "note": "将提示词改为隐式注入",
-      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.1.1.zip"
-    },
-    "1.1.0": {
-      "date": "2026-6-26",
-      "note": "1. 写清启用模块的方式是用带命名空间的类名\n2. 完善插件开发指南并改为初始注入",
-      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.1.0.zip"
-    },
-    "1.0.0": {
-      "date": "2026-6-11",
-      "note": "初始版本",
-      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/1.0.0.zip"
-    }
+    "IsSynchronized": false
   }
 }
