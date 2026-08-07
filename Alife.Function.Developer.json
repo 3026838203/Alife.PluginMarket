@@ -11,6 +11,11 @@
     "Alife.Function.FunctionCaller": ""
   },
   "releases": {
+    "4.1.0": {
+      "date": "2026-8-5",
+      "note": "feat:增加对使用异步对话结果的提示\\nfix:完全改用交互器来发送消息",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Developer/4.1.0.zip"
+    },
     "4.0.1": {
       "date": "2026-8-5",
       "note": "将热重载的提示词注入方法作为默认推荐写法",
