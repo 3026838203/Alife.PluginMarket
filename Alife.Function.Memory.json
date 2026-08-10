@@ -22,6 +22,11 @@
     }
   },
   "releases": {
+    "4.1.1": {
+      "date": "2026-8-10",
+      "note": "fix:微调提示词\nfix:将IInteractor依赖改为Interactor",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Memory/4.1.1.zip"
+    },
     "4.1.0": {
       "date": "2026-8-5",
       "note": "fix:修复存储记忆时继续对话，有概率导致角色永远都显示在工作中的问题\\nfix:更新使用新的上下文操作API\\nfeat:保存压缩记忆提前到函数执行之前，并使两者并行执行",

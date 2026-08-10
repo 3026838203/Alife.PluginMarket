@@ -11,6 +11,11 @@
     "Alife.Function.FunctionCaller": ""
   },
   "releases": {
+    "4.1.0": {
+      "date": "2026-8-10",
+      "note": "feat:增加显式掉标签检测功能\nfeat:气泡显示时间可配置话并默认延长些\nfix:将IInteractor依赖改为Interactor\nfix:增加对客户端更准确的完整性检测",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.DeskPet/4.1.0.zip"
+    },
     "4.0.1": {
       "date": "2026-8-5",
       "note": "fix:更新使用新的对话占用API",
