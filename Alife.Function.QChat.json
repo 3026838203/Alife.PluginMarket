@@ -16,7 +16,7 @@
     "4.2.0": {
       "note": "feat:qq私聊增加防抖功能\\nfeat:qchat回调为非纯文本区域\\nfix:增加对回复规则的回收，并更新API",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.QChat/4.2.0.zip",
-      "date": "2026-8-5"
+      "date": "2026-8-12"
     },
     "4.1.0": {
       "date": "2026-8-10",
