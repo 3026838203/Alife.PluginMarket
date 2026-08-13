@@ -13,6 +13,11 @@
     "Alife.Function.Speech": ""
   },
   "releases": {
+    "4.2.1": {
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.QChat/4.2.1.zip",
+      "date": "2026-8-14",
+      "note": "fix:增加对音频消息的过滤，减少冗余内容"
+    },
     "4.2.0": {
       "note": "feat:qq私聊增加防抖功能\\nfeat:qchat回调为非纯文本区域\\nfix:增加对回复规则的回收，并更新API",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.QChat/4.2.0.zip",
